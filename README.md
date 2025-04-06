@@ -1,0 +1,1 @@
+A simple and interactive Tic Tac Toe game built using pure HTML, CSS, and Vanilla JavaScript. This is a two-player browser game where players take turns marking X or O in a 3x3 grid. The game detects wins, losses, and allows users to reset the board for a new game.
