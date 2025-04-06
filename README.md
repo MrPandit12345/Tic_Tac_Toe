@@ -8,6 +8,4 @@ A simple and interactive Tic Tac Toe game built using pure HTML, CSS, and JavaSc
 
 🔁 Reset button to restart the game
 
-💻 Responsive and clean UI
-
 🧠 Simple, beginner-friendly JavaScript logic
